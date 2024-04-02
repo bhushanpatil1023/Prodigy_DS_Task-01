@@ -1,2 +1,2 @@
-Prodigy_ML_Task 01
-Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.
+Prodigy_DS_Task 01
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
